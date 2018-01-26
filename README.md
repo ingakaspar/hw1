@@ -13,13 +13,10 @@
     * Life is stange
       
 ## Favourites
-    Рик и Морти. 
-    Гордость и предубеждение.
-    Унесенные ветром. 
-    
-    
-    
-   
+[Рик и Морти](http://rickandmorty.cn-fan.ru "Шедевр")
+[Гордость и предубеждение](http://kino-hd1080.ru/1490-gordost-i-predubezhdenie-2005-smotret-onlayn.html "Кира Найтли бесподобна")
+[Унесенные ветром](http://knijky.ru/books/unesennye-vetrom "прекрасный роман")
+  
 ## Мое Расписание 
 *Принимаю моральную поддержку по средам*
 
