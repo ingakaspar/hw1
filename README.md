@@ -13,9 +13,9 @@
     * Life is stange
       
 ## Favourites
-[Рик и Морти](http://rickandmorty.cn-fan.ru "Шедевр")
-[Гордость и предубеждение](http://kino-hd1080.ru/1490-gordost-i-predubezhdenie-2005-smotret-onlayn.html "Кира Найтли бесподобна")
-[Унесенные ветром](http://knijky.ru/books/unesennye-vetrom "прекрасный роман")
+- [Рик и Морти](http://rickandmorty.cn-fan.ru "Шедевр")
+- [Гордость и предубеждение](http://kino-hd1080.ru/1490-gordost-i-predubezhdenie-2005-smotret-onlayn.html "Кира Найтли бесподобна")
+- [Унесенные ветром](http://knijky.ru/books/unesennye-vetrom "прекрасный роман")
   
 ## Мое Расписание 
 *Принимаю моральную поддержку по средам*
@@ -30,4 +30,5 @@
 16.40-18:00| | |Мировое Культурное наследие| |Лекция: История и культура Великобритании| |
 
 ### Контакты:
-[Моя страничка в VK](https://vk.com/id180386057)| Моя почта: <ikasparavichute@gmail.com>
+- [Моя страничка в VK](https://vk.com/id180386057)
+- Моя почта: <ikasparavichute@gmail.com>
