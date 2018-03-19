@@ -32,3 +32,4 @@
 ### Контакты:
 - [Моя страничка в VK](https://vk.com/id180386057)
 - Моя почта: <ikasparavichute@gmail.com>
+![](https://github.com/ingakaspar/hw1/blob/master/Снимок%20экрана%202018-03-19%20в%2014.30.19.png)
